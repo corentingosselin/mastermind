@@ -1,0 +1,4 @@
+import MasterMind
+
+MasterMind.MasterMind()
+
